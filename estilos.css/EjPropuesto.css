@@ -1,0 +1,47 @@
+
+#caja1, #caja2, #caja3 {
+    width: 340px;
+    margin: 18px;
+    padding: 8px;
+    border: 3px solid blue;
+    overflow: hidden;
+    box-sizing: border-box; 
+}
+
+
+#caja1 {
+    line-height: 105%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    height: auto;
+}
+#caja1 span {
+    font-size: 18px;
+    text-shadow: 2px 2px 2px red;
+}
+
+
+#caja2 {
+    line-height: 110%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    height: auto;
+}
+#caja2 span {
+    font-size: 18px;
+    text-shadow: -2px 2px 2px blue;
+}
+
+
+#caja3 {
+    text-align: justify;
+    color: #8B4513;
+    line-height: 120%;
+    height: auto;
+}
+#caja3 span {
+    font-size: 18px;
+    text-shadow: 1px 1px 5px rgba(0, 255, 0, 0.5);
+}

@@ -1,0 +1,53 @@
+.apartado1{
+    border: 3px solid #4bd519;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 22px;
+    box-shadow: 6px 10px brown;/**s-right s-botton color*/
+}
+.apartado2{
+    border: 3px solid #4bd519;
+    width: 400px;
+    height: 200px;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 22px;
+    box-shadow: 6px 10px 5px brown;/**s-right s-botton color*/
+    
+}
+.apartado5{
+    border: 3px solid green;
+    width: 400px;
+    height: 200px;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 22px;
+    box-shadow: 0px ;
+}
+
+h2{
+    text-align: center;
+    
+    color: #212be2;
+}
+.apartado7{
+    border: 3px solid green;
+    width: 400px;
+    height: 200px;
+    margin: 50px;
+    padding: 10px;
+    border-radius: 22px;
+    box-shadow: 0px 0px 20px red inset, 0px 0px 25px blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apartado3{
+    border: 3px solid #4bd519;
+    width: 400px;
+    height: 200px;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 22px;
+    box-shadow: 6px 10px 5px brown;/**s-right s-botton color*/
+}
